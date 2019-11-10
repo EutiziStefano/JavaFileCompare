@@ -9,4 +9,4 @@ There is also an option to delete duplicate records.
 
 A new file with desired result is created.
 
-![alt text](https://raw.githubusercontent.com/EutiziStefano/JavaFileCompare/blob/master/screenshot.jpeg)
+![alt text](https://github.com/EutiziStefano/JavaFileCompare/blob/master/screenshot.jpeg)
